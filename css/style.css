@@ -1,0 +1,39 @@
+/* line 8, ../../project_test/src/sass/style.sass */
+h1 {
+  color: blue;
+  font-size: 50px;
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 12, ../../project_test/src/sass/style.sass */
+h2 {
+  color: blue;
+}
+
+/* line 14, ../../project_test/src/sass/style.sass */
+.block {
+  background-color: black;
+}
+
+/* line 16, ../../project_test/src/sass/style.sass */
+.block h3 {
+  color: white;
+}
+
+/* line 18, ../../project_test/src/sass/style.sass */
+.block__color {
+  background-color: white;
+}
+
+/* line 20, ../../project_test/src/sass/style.sass */
+.block__color button {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
